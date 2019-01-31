@@ -1,0 +1,3 @@
+@RestTemplate - and examples of older methods ie HttpURLConnection
+
+https://api.nytimes.com/

@@ -1,0 +1,13 @@
+Practice
+------------------------------------------------------------------------------------------------------------------------
+change directories (move) from your Desktop to your Download folder
+copy a file from one directory to another
+rename a file
+move a file from one directory to another
+create a text file with vim
+delete a file
+delete a folder
+print working directory - where are you now
+invoke a bash/shell script
+change the permission of a file
+Regarding permissions, what is 777? what is 755? what is 700? etc

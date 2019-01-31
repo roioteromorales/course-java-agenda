@@ -1,0 +1,30 @@
+Conflicts
+------------------------------------------------------------------------------------------------------------------------
+When does a conflict happen?
+How do you resolve a conflict?
+What must you do when you pull from a remote repository and you encounter conflicts?
+
+Branching
+------------------------------------------------------------------------------------------------------------------------
+How do you create a new branch?
+How to you merge two branches together?
+When is it a good idea to create a branch?
+When should you merge your branch to master?
+
+Workflow
+------------------------------------------------------------------------------------------------------------------------
+What is the general git workflow?
+What are the steps to initialize a new git repository and put it on Github?
+What are the steps to clone an existing 3rd party git repository to your machine, then push and then put that repo to your own GitHub?
+What does it mean to fork a repository?
+What is a pull request?
+
+Practice
+------------------------------------------------------------------------------------------------------------------------
+Via Git Command:
+Clone a repository
+Create a branch
+make a change in a file
+commit the changes with a nice comment
+push it to the remote
+

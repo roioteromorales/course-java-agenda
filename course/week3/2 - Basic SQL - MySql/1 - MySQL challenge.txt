@@ -1,0 +1,10 @@
+Please paste your SQL for each item below in the comments:
+Create a table named "users" with the columns: u_id (auto increment), u_name, u_surname, u_email, u_active.
+Demonstrate SQL to select all users.
+Demonstrate SQL to select 10 users.
+Demonstrate SQL to select all users with the first name "Jill".
+Demonstrate SQL to select all users with a first name that starts with "J"
+Demonstrate SQL to select all inactive users.
+Demonstrate SQL to update a user's first name and email address.
+Demonstrate SQL to delete a user by id.
+Demonstrate SQL to return the total number of users

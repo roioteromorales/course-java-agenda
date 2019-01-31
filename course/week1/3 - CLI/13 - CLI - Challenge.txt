@@ -1,0 +1,7 @@
+Find the code in the remote computer challenge
+------------------------------------------------------------------------------------------------------------------------
+There is a code hidden in one remote computer. You should connect to it and find it. The address will be provided during class.
+
+The user credentials are:
+Username: codingnomad
+Password: codingnomad

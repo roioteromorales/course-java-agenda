@@ -1,0 +1,9 @@
+Basic flow
+------------------------------------------------------------------------------------------------------------------------
+Use i to get to insert mode.
+Type the text you want to input as in a normal editor.
+Press Esc to exit insert mode.
+Press :wq to save and exit the file.
+
+Online cheat sheet
+https://vim.rtorr.com/

@@ -1,0 +1,8 @@
+What is inheritance?
+What is the benefit of using inheritance?
+How do you inherit a class?
+What is shared when a class is extended?
+How many classes can one class extend?
+How many levels of hierarchy can inheritance extend?
+What is method overriding?
+What is the super keyword used for?

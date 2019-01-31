@@ -1,0 +1,29 @@
+Why automated testing, start with Junit and run some.
+
+What is unit testing?
+When do we use Unit Tests?
+What do we test with Unit Tests?
+What do we NOT test with Unit Tests?
+Demonstrate using JUnit to test your program.
+Demonstrate the use of Unit Tests on many methods.
+Link to a project where this is done on Github.
+
+------------------------------------------------------------------------------------------------------------------------
+
+It is possible, and highly recommended to test the JSON format and structure of your controller responses.
+An example looks like:
+
+mockMvc.perform(get("/api/endpoint"))
+    .andExpect(status().isOk())
+    .andExpect(content().contentType(TestUtil.APPLICATION_JSON_UTF8))
+    .andExpect(jsonPath("$", hasSize(2)))
+    .andExpect(jsonPath("$[0].id", is(1)))
+    .andExpect(jsonPath("$[0].description", is("Lorem ipsum")))
+    .andExpect(jsonPath("$[0].title", is("Foo")))
+    .andExpect(jsonPath("$[1].id", is(2)))
+    .andExpect(jsonPath("$[1].description", is("Lorem ipsum")))
+    .andExpect(jsonPath("$[1].title", is("Bar")));
+
+Take a look at this tutorial here (https://www.petrikainulainen.net/programming/spring-framework/unit-testing-of-spring-mvc-controllers-rest-api/)
+and then add Controller response unit testing to a number of your controller methods in one or more of your APIs.
+Paste a link to your work here.

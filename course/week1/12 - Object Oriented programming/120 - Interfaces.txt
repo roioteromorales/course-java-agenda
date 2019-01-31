@@ -1,0 +1,5 @@
+What is an interface?
+How are they used?
+How is an interface implemented?
+What is the benefit of interfaces?
+How many interfaces can one class implement?

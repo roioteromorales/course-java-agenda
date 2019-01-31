@@ -1,0 +1,10 @@
+Using the MySQL shell, know how to:
+  connect to your MySQL server on your machine
+  select a schema to work with
+  query various tables within that schema
+  create a new schema
+  create new tables
+  add a row or column to a new table
+  add values to a table
+  export a database and it's data to a dump file
+  import a new database and it's data using a dump file

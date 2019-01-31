@@ -1,0 +1,3 @@
+RESTful resources (later after Spring and REST are introduced)
+
+https://github.com/pkainulainen/spring-mvc-test-examples/blob/master/rest-unittest/src/integration-test/java/net/petrikainulainen/spring/testmvc/todo/controller/ITTodoControllerTest.java

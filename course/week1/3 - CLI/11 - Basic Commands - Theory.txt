@@ -1,0 +1,14 @@
+The shell is the interface that we have to interact with the computer via command line
+Contains some small programs included in the OS:
+
+Unix commands:
+cd - Changes directory
+cp - copy files
+mv - moves files (can be used to rename files)
+rm - delete files
+rmdir - delete folders
+ls - list current directory content
+pwd - displays the current directory path
+sh - invokes shell scripts
+chmod - changes permissions on files, can be used with Numbers or with +UGO
+

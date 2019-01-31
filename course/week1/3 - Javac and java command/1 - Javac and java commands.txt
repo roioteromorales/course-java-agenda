@@ -1,0 +1,3 @@
+Create a java file and with a class with hello world. Compile it and run it.
+Create a java file and with a class that accepts a parameter and prints it. Compile it and run it.
+

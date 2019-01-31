@@ -1,0 +1,8 @@
+Anything you can do via the AWS console (UI) you can also do via the command line (and via a shell script).
+Install the AWS CLI and start playing around.
+Write a script that will create an S3 bucket and transfer files from your computer to that bucket on S3.
+
+(Advanced) Write a script that can launch EC2 instances, configure them, scp your application to them and run your app.
+This app need not be a web service such as an API or MVC application.
+https://aws.amazon.com/cli/
+Please link to Github directory demonstrating a shell script that takes advantage of the AWS CLI.

@@ -1,0 +1,4 @@
+What are the different types of loops?
+Write out an example of each loop and explain how it works (for, foreach, while, do-while).
+What does the keyword break do?
+What does the keyword continue do?

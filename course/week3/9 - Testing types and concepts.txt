@@ -1,0 +1,5 @@
+unit tests, integration tests etc - just an explanatory conversation about the types of testing
+//todo
+
+Mocking, spies, fakes...
+

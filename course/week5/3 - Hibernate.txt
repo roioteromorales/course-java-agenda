@@ -1,0 +1,2 @@
+CrudRepository, JpaRepository, custom query method syntax
+

@@ -1,0 +1,10 @@
+The Tomcat log files are your only window into any exceptions, errors, logs etc that your application generates.
+how do you access these logs?
+paste in a screen shot of a apache log file on your local machine showing a stacktrace from an exception in your application.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Describe the process of installing Tomcat on your local machine (http://tomcat.apache.org/)
+How do you start and stop Tomcat on your local machine?
+Describe the process of deploying a Spring Boot application to Tomcat on your local machine
+How do you kill the Tomcat process on your machine?

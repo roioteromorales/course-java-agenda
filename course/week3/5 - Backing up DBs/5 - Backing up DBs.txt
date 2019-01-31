@@ -1,0 +1,5 @@
+Why do we make backups of our databases?
+How do we make a backup using MySQL Workbench?
+How do we make a backup from the CLI?
+How do we restore a database from a backup on MySQL Workbench?
+How do we restore a database from a backup using the CLI?

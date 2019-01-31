@@ -1,0 +1,4 @@
+Online documentation
+------------------------------------------------------------------------------------------------------------------------
+Official documentation: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+Simple guide: http://rogerdudler.github.io/git-guide/

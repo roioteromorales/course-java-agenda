@@ -1,0 +1,2 @@
+adding emailing to your app with SES
+

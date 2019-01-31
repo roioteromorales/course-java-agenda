@@ -1,0 +1,6 @@
+What is MyBatis?
+What is MyBatis used for?
+What annotations do MyBatis enabled interfaces commonly use?
+How do include and use MyBatis in our projects?
+Link to a project where you have used MyBatis.
+Explain how you are using it and what it is doing in your project.

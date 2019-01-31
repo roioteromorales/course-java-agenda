@@ -1,0 +1,21 @@
+SSH
+------------------------------------------------------------------------------------------------------------------------
+SSH is a command to log into a remote shell in a secure way
+Requires username and host
+
+Example:
+ssh username@host
+
+
+SCP
+------------------------------------------------------------------------------------------------------------------------
+SCP is a command to copy files between machines using a secure protocol
+Requires username, host and paths of both machines (source and destination)
+
+Example:
+scp username@host:file.txt /local/directory/
+
+
+Online doc:
+------------------------------------------------------------------------------------------------------------------------
+https://www.ssh.com/ssh/command/

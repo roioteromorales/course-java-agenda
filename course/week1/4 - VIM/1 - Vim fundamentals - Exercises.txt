@@ -1,0 +1,13 @@
+Practice
+------------------------------------------------------------------------------------------------------------------------
+How do you create a file?
+How do you open an existing file?
+How do you enter "INSERT" mode?
+How do escape "INSERT" mode?
+How do you delete some lines?
+How do you save a file you're working on?
+How do you save and quit a file?
+How do you search a file's contents for a word or phrase?
+How do you show the line numbers?
+How do you go to the bottom of the page?
+How do you go to the top of the page?

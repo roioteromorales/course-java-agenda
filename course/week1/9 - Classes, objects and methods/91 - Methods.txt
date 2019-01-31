@@ -1,0 +1,6 @@
+What is a method?# What makes up a method signature?
+How many parameters can a method take in?
+What is var-args?
+How do access modifiers limit the use of methods from other methods within the same class and other classes?
+How do you return something from a method?
+What is recursion?# What is overloading?

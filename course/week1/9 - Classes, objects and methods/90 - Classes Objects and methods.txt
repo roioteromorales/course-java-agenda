@@ -1,0 +1,8 @@
+How do you create a class?
+How do you create an object of a class?
+What is the difference between a class and an object?
+What is a POJO?
+What is an instance variable?# What is a reference variable?
+What happens when you pass an object to a method and change the object in the second method? Does the original object change?
+
+

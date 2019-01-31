@@ -1,0 +1,4 @@
+Online documentation
+------------------------------------------------------------------------------------------------------------------------
+Official documentation: https://www.jetbrains.com/idea/documentation/
+Shortcuts: https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf

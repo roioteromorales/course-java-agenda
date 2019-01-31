@@ -1,0 +1,4 @@
+What is multithreading all about?
+How do you create and start a thread using the Thread class?
+How do you create and start a thread using the Runnable interface?
+Link to a class on Github where you demonstrate each of these.

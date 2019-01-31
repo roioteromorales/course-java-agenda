@@ -1,0 +1,9 @@
+try/catch/finally (+ try-with-resources once I/O is introduced)
+
+Why do we use exception handling practices?
+What is the exception hierarchy?
+What is the form of a try/catch/finally?
+How do you throw an exception?
+How do you create your own custom exception?
+
+Please provide a link to github demonstrating questions 2-5 above in the comments below.

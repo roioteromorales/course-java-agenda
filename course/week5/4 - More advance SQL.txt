@@ -1,0 +1,2 @@
+Harder, more complex queries - work through all of https://www.w3schools.com/sql/
+

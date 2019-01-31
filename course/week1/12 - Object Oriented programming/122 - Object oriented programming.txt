@@ -1,0 +1,5 @@
+What is object oriented programming?
+Please list and describe the three primary traits of OOP?
+
+Pilars
+other paradigms

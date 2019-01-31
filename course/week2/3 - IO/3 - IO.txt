@@ -1,0 +1,10 @@
+Byte Streams, Character Streams, general File I/O
+
+What is the byte stream?What is the character stream?What is "try-with-resources"? Why is it nice?
+
+Use
+  - byte steam
+  - character stream
+  - bufferedreader
+  - try-with-resources
+  - try/catch/finally

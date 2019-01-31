@@ -1,0 +1,10 @@
+Get cozy writing shell scripts.
+The documentation in the following link is not that pretty, but it's great.
+Read from chapter 2 onwards: http://www.freeos.com/guides/lsst/
+Write a number of increasingly complex shell scripts to do common tasks.
+Create a repo for them on github
+Write a bash/shell script which does just one thing: saying "Hello shell!".
+Your task is to use for loops to display only odd natural numbers from 1 to 100
+Given two integers, X and Y, find their sum, difference, product, and quotient.
+These examples and more can be found here:
+https://www.hackerrank.com/domains/shell# Share a link to your github repo with samples here.

@@ -1,0 +1,8 @@
+What is a static member?
+What is a good example of a static variable?
+What is a good example of when a method should be static?
+How should you decide is a variable or method should be static or non-static?
+How do you call a non-static method from a non-static method?
+How do you call a static method from a non-static method?
+How do you call a static method from a static method?
+How do you call a non-static method from a static method?

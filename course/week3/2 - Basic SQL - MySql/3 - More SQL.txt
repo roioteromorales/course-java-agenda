@@ -1,0 +1,14 @@
+What are join statements used for?
+What is the difference between an inner join and a outer join?
+What is a left or right join?
+What is the difference?
+When do you use them?
+Give an example of the scenario where you would have to use a join statement.
+What would that join statement look like?
+
+------------------------------------------------------------------------------------------------------------------------
+Write the SQL below that demonstrates the following:
+Joining tables through a 3rd LookUp Table (ie - table Students, table Classes, and table Students_Classes)
+Demonstrate a left join that selects all students regardless of whether or not they're enrolled in any classed
+Demonstrate a right join that selects all courses regardless of whether or not there are students enrolled in them
+Demonstrate a full join that selects all students who are enrolled in classes - but not any students who are not enrolled in classes - and not any classes that do not have students in them.

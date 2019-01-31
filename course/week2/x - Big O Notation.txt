@@ -1,0 +1,4 @@
+Study and understand Big O notation: http://bigocheatsheet.com/
+How do the structures and algorithms you've written fair when it comes to Big O?
+
+"In computer science, big O notation is used to classify algorithms according to how their running time or space requirements grow as the input size grows."

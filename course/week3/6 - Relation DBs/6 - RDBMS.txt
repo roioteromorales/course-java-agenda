@@ -1,0 +1,7 @@
+Relational Databases - concepts, creation, modelling
+
+DB Schema modelling
+
+university example - how to model a DB for a university that covers students, courses, instructors, faculty, buildings
+
+//todo

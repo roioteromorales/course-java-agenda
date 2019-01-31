@@ -1,0 +1,10 @@
+exploring, launching instances, creating images
+
+Describe the process of installing Apache Tomcat on an EC2 instance
+Describe the process of using the Apache Tomcat Web Manager
+Describe the process of adding a user to the Tomcat Web Manager
+How do you check the Tomcat logs?
+How do you keep the tomcat logs updating live on your screen?
+If you have an error in your application, where will you find the stacktrace?
+How do you start and stop tomcat on an EC2 instance?
+How do you deploy an application to Tomcat on an EC2 instance?

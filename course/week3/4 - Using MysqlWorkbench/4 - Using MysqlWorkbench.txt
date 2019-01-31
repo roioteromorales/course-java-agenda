@@ -1,0 +1,8 @@
+In MySQL Workbench, know how to:
+create a new schema
+create new tables
+add a row or column to a new table
+add values to a table
+execute statements in the query editor
+export a database and it's data to a dump file
+import a new database and it's data using a dump file

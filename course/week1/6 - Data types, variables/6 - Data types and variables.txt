@@ -1,0 +1,7 @@
+Speak about type of variables
+
+By reference vs by value
+
+Draw in memory
+
+Example of 3 variables 2 pointing at same and change
