@@ -1,2 +1,0 @@
-autosclaing groups, load balancers, elastic IPs, Route 53
-

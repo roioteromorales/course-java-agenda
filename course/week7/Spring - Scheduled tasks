@@ -1,0 +1,12 @@
+Run through this tutorial:
+https://spring.io/guides/gs/scheduling-tasks/
+then add @Scheduled to your own applications.
+
+
+CRON
+It is very often necessary to schedule tasks, calls, etc to be run on your application.
+For instance, to have a background task that calls your API every 5 minutes to go gather the last 5 minutes of data from some API and persist it to the DB.
+There are many schedulers out there that can be used, but the most common and simple option is called a cron job.
+It's actually quite simple.
+https://www.linux.com/learn/scheduling-magic-intro-cron-linux
+Deploy one of your APIs to EC2 and setup a cron job to call one your endpoints on a regular basis.

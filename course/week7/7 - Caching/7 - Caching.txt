@@ -1,0 +1,13 @@
+EhCache, Gemfire, Spring Cache - @cacheable, @cacheput...
+
+EhCache
+Add an EhCache implementation to one of your projects.
+Refer to our example from class: https://github.com/rdesmond/spring-ehcache-example
+
+GEMFIRE
+Start with this tutorial:
+https://spring.io/guides/gs/caching-gemfire/
+Then take some time to implement caching with GemFire in one of your applications at a larger scale.
+Then, take a bit of time to explore the Gemfire documentation to get a better understanding of how much you can do with it,
+and how much it can scale (run in a distributed manner) to a massive organization.
+https://gemfire.docs.pivotal.io/gemfire/about_gemfire.html

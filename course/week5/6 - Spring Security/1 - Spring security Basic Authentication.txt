@@ -1,0 +1,15 @@
+Simple Login / Logout functionality
+
+How does Spring Security work?
+How do we configure and enable Spring Security?
+What are the primary methods we need to setup our security?
+Explain Spring Security as best you can.
+
+------------------------------------------------------------------------------------------------------------------------
+Add basic authentication to one of your MVC applications.
+For instance, create a basic User CRUD application that requires a user to log into all pages other the registration page.
+https://spring.io/guides/gs/securing-web/
+
+Develop an MVC application with full User CRUD functionality with at least 3 distinct, dynamic views.
+At least 1 of these views must only be accessible by logged in, admin users.
+Use Basic Auth to protect the admin resource(s).http://www.baeldung.com/spring-security-basic-authentication

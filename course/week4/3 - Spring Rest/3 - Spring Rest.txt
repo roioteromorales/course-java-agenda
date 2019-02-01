@@ -1,0 +1,14 @@
+recommend a quick, local REST API project right away to get them excited about the potential
+
+Please explain what a RESTful API is. How does it differ from traditional APIs? What makes a RESTful API RESTful?
+
+Just about every API you create or 3rd party API you integrate with will have some sort of Rate Limit
+Build your own Rate Limit Monitor
+Working with a 3rd party API with a rate limit, write the code that will keep you under the 3rd party APIs limit.
+
+
+Become extremely comfortable deploying your own RESTful APIs.
+Become so comfortable that you can build and run a simple API that can tell you the current day and time in the next 10 minutes.
+https://spring.io/guides/gs/rest-service/
+Become completely comfortable with GET/POST/PUT/PATCH/DELETE and User CRUD.
+Be able to clearly explain what a RESTful API and how it differs from a traditional API.

@@ -1,0 +1,4 @@
+autosclaing groups, load balancers, elastic IPs, Route 53
+
+There is an inherent problem with deploying our applications to a single server.
+What is it?

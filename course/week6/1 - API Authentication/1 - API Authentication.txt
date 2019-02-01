@@ -1,0 +1,5 @@
+Build out a custom api key authentication
+
+Implement a custom API key authentication in one of you programs.
+You can refer to the video from class here:
+https://drive.google.com/drive/u/1/folders/1UbLw_34fUr9_eKkyEyLI7Gj1rf2L0i-k

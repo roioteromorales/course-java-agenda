@@ -1,0 +1,3 @@
+Once an application is deployed to a real server, we have only one way to monitor that logs of that application.
+Where are those logs?
+How do we view them?

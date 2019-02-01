@@ -1,0 +1,5 @@
+In as much detail as possible, please list the steps to deploy a Spring Boot application to an EC2 instance.
+List every step you can think of.
+
+A few changes need to be made to our Spring Boot applications so that they can deploy to TOMCAT.
+What are they?

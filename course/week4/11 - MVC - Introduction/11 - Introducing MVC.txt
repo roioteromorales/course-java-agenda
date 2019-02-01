@@ -1,0 +1,7 @@
+@Controller, Models, Views - static & templates
+
+What does MVC stand for?
+Please describe each letter in the MVC acronym.
+What is an MVC application?
+Why do we use MVC? https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/mvc.html
+

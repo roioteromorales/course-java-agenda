@@ -1,0 +1,4 @@
+Using the AWS SDK (https://aws.amazon.com/sdk-for-java/)
+write an application that is able to send emails using AWS SES.
+In sandbox mode you'll need to verify both senders and recipients to be able to send:
+https://docs.aws.amazon.com/ses/latest/DeveloperGuide/getting-started.html

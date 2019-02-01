@@ -1,0 +1,6 @@
+Please describe a load balancer?
+Why are they useful?
+https://aws.amazon.com/elasticloadbalancing/
+
+Create a load balancer and deploy one of your APIs behind it,
+https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-getting-started.html

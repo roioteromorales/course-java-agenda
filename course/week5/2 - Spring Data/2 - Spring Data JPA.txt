@@ -1,0 +1,5 @@
+What is Spring Data?
+What is the Java Persistence API?
+What is the CrudRepository interface?
+What is the UserRepository interface?
+

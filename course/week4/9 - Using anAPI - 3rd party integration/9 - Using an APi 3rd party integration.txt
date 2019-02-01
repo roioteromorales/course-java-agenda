@@ -1,0 +1,9 @@
+@RestTemplate - and examples of older methods ie HttpURLConnection
+
+https://api.nytimes.com/
+
+
+Integrate with third party APIs in two ways:
+using Springs RestTemplate (https://spring.io/guides/gs/consuming-rest/)
+using HttpClient (https://alvinalexander.com/java/java-apache-httpclient-restful-client-examples)
+Be sure you can fully map the response of both to Java objects in your program. Link to both examples below.

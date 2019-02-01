@@ -1,0 +1,13 @@
+Controllers, Services, Models (POJOs), Mappers (DAOs)
+
+Become comfortable with the general architecture of a Maven based RESTful API (and many other applications).
+This general package architecture is:
+#* src main
+#** -> java
+#*** -> app root name
+#**** controllers
+#**** mappers
+#**** models
+#**** services
+
+#* What kind of classes do we put in each package?

@@ -1,2 +1,0 @@
-explain the advantages of containers vs virtual machines. Show the easiness of usage.
-

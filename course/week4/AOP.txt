@@ -1,0 +1,7 @@
+AOP stands for Aspect Oriented Programming.
+"Most of the enterprise applications have some common crosscutting concerns that is applicable for different types of Objects and modules.
+Some of the common crosscutting concerns are logging, transaction management, data validation etc.
+In Object Oriented Programming, modularity of application is achieved by
+Classes whereas in Aspect Oriented Programming application modularity is achieved by Aspects and they are configured to cut across different classes.
+"Learn more and run an example application here:
+https://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations

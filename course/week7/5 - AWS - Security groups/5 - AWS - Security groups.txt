@@ -1,0 +1,15 @@
+understanding security groups
+
+What is an AWS VPC?
+Please follow this tutorial to create a new VPC,
+https://docs.aws.amazon.com/AmazonVPC/latest/GettingStartedGuide/getting-started-ipv4.html
+
+Please describe an AWS Security Group.
+Why do we use them?
+What are they good for?
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html
+
+At minimum, we need two open ports (via our AWS Security Groups) to be open to our EC2 instance.
+What ports are they?
+Who should they be open to?
+

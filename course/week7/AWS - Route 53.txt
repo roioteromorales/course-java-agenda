@@ -1,0 +1,4 @@
+Do you have a domain name?
+Would you like to link it to an EC2 instance running one of your applications?
+Follow the tutorial here:
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-ec2-instance.html

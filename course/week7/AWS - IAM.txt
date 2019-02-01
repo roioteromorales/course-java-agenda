@@ -1,0 +1,4 @@
+get started here:
+https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorials.html
+Since we all work in single user environments there's not too much we can do.
+That said, if you have multiple email addresses you can create multiple users for yourself with different IAM roles and log in to see how it all shakes out.

@@ -1,0 +1,12 @@
+@RestController, @RequestMapping, @PathVariable
+
+Become comfortable with the primary annotations required to create a RESTful API with Spring.
+These are:
+* @RestController
+* @RequestMapping
+* @PathVariable
+* @RequestParam
+* @GetRequest, @PostRequest, @PutRequest, @DeleteRequest
+
+When do you use them?
+What do they do?

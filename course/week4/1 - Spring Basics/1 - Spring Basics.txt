@@ -1,0 +1,7 @@
+What is Spring? Why do we use Spring?
+
+Please describe the Spring Framework as though you were asked in an interview, "What is the Spring Framework?"
+
+Please list, and briefly describe, the various modules of the Spring Framework.
+
+In your opinion, why is the Spring Framework so useful?

@@ -1,0 +1,10 @@
+Deploying DBs to RDS
+If someone asked you,
+What is AWS RDS?
+Why is it worth using?
+How would you respond?
+Please explain in as much detail as possible.
+
+What ports must we open, via our AWS Security Groups, on an RDS instance so that we can properly connect to the DB?
+
+What do we need to do in our application so that our applications are communicating with a remote RDS instance rather than a local database?

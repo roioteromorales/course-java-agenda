@@ -1,2 +1,0 @@
-Using Thymeleaf, or other templating engines
-

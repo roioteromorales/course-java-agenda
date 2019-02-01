@@ -1,0 +1,5 @@
+Using Thymeleaf, or other templating engines
+
+Develop a Spring MVC Application that has at least 3 distinct, and dynamic Views.
+ https://spring.io/guides/gs/serving-web-content/# link to your code on GitHub below
+

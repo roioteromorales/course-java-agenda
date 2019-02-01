@@ -1,0 +1,5 @@
+What makes autoscaling groups so useful?
+https://aws.amazon.com/autoscaling/
+
+Launch an autoscaling group that has one of your APIs deployed to it,
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/GettingStartedTutorial.html

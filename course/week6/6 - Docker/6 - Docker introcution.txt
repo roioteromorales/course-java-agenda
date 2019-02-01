@@ -1,0 +1,12 @@
+explain the advantages of containers vs virtual machines. Show the easiness of usage.
+
+Setup Docker environment
+https://docs.docker.com/get-started/
+
+Create an image and run it
+https://docs.docker.com/get-started/part2/
+
+Scale your app to run multiple containers
+https://docs.docker.com/get-started/part3/
+
+//todo add better

@@ -1,0 +1,1 @@
+If someone asked you, "What is AWS EC2?" How would you respond?

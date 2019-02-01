@@ -1,0 +1,4 @@
+For those who dare... \:)
+Read through this tutorial,
+https://spring.io/guides/tutorials/spring-boot-oauth2/ to get a OAUTH2 enabled app running.
+Afterwards, try creating your own OAUTH2 authentication service on one of your APIs.

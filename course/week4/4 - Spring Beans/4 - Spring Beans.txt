@@ -1,0 +1,19 @@
+@Bean, @Service, @Component @Repository, @Controller
+
+
+We can wire, aka configure, Spring beans in two ways. The older, more difficult way is by using XML configurations.
+The newer, nicer way is by using annotations.
+In the comments below, please demonstrate the creation of Spring bean using both annotations and XML configuration.
+
+
+What is a Spring Bean?
+
+
+Spring beans can be wired using either XML or annotations.
+XML is preferred by many as it keeps all your bean definitions in one place.
+While others don't like XML definitions as they're tedious compared to annotations such as @Bean, @Configuration, and @Service.
+Learn more about XML bean definitions here: https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/xsd-config.html
+Learn more about @Bean annotation here: https://docs.spring.io/spring-javaconfig/docs/1.0.0.M4/reference/html/ch02s02.html
+Learn more @Configuration annotation here: https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-configuration-classes.html
+Learn more about @Service annotation here: https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/stereotype/Service.html
+More annotations explained: https://howtodoinjava.com/spring/spring-core/how-to-use-spring-component-repository-service-and-controller-annotations/

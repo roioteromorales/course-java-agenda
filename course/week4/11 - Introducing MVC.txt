@@ -1,2 +1,0 @@
-@Controller, Models, Views - static & templates
-
